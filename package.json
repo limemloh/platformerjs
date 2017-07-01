@@ -1,0 +1,23 @@
+{
+  "name": "platformerjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jomik/platformerjs.git"
+  },
+  "keywords": [],
+  "author": "Jonas Damtoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jomik/platformerjs/issues"
+  },
+  "homepage": "https://github.com/Jomik/platformerjs#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
